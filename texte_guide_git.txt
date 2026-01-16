@@ -8,6 +8,26 @@ Ce problème que je rencontre souvent en projet n'est pas un cas isolé, beaucou
 developpeur ont ce genre de problème et donc une solution a commencer a émerger est
 cette solution s'appelle "git".
 
-
+QUESQUE GIT.
 Git est une application gratuite et open-source developper par Linus Torvalds.
-Linus Torvalds s'est un ptit gars qui a develloper 2 3 choses dans sa vie, genre 
+Linus Torvalds s'est un ptit gars qui a develloper 2 3 choses dans sa vie, genre
+avoir créer le noyau de linux.
+
+A QUOI SERT GIT ET SES CONCEPT.
+Git permet le suivie d'un projet et son versionnage ceci ce fait en fessant
+des snapshots de l'état du projet via des "commit".
+Quand t'on code est qu'on ajoute de nouvelle fonctionalité dans le projet on vas
+vouloir faire des commit d'ajout de ces fonctionalité. Apres quelque jour ou vous
+vous rendez compte que ce que vous avez ajouter ne contient que des bug et bien
+vous débuguer votre fonctionalité, vous vous assuer que sa marche et vous
+faite votre commit de fix d'erreur. Ceci sont 2 exemple que je vous donne mais
+l'utilisation de git dépendras de ce que vous voulez en faire.
+Le suivi de projet que j'ai voulue faire est que j'ajoute des fonctionalité, est 
+que a un moment j'ai la possibilité de vouloir la fix en cas de bug.
+
+LES CONCEPT CLES DE GIT.
+Vous avez un dépot local sur votre pc qui est juste le stockage de votre pc, la
+en faite je parle juste de vos dossier sur pc.
+Vous avez un dépot local git qui peut être instancier, s'est un dépot suivi par
+git ou vous devrez faire des commit pour le mettre a jour.
+Ces commit comme dit plus tot sont des snapshots de votre projet.
