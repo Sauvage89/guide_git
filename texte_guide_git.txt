@@ -1,0 +1,13 @@
+INTRODUCTION.
+Dans un projet il est souvent demandé de vouloir effectuer un SUIVI du projet.
+Il est aussi souvent demander de vouloir versionner un projet et moi ma seule solution
+était de créer sur mon pc le dossier V1/V2/V3 du projet puis quand juste apres quand
+un de mes camarade me demander de partager je devais avoir sur moi un clé usb copié
+le dossier demander puis lui repasser le dossier. Est tout ceci était bien fastidieux.
+Ce problème que je rencontre souvent en projet n'est pas un cas isolé, beaucoup d'autre
+developpeur ont ce genre de problème et donc une solution a commencer a émerger est
+cette solution s'appelle "git".
+
+
+Git est une application gratuite et open-source developper par Linus Torvalds.
+Linus Torvalds s'est un ptit gars qui a develloper 2 3 choses dans sa vie, genre 

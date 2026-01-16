@@ -1,0 +1,51 @@
+1. Exposition de probleme tel que
+	- Comment avoir un suivi d'un projet.
+	- Comment versionner un projet.
+	- Comment éviter de perdre du code.
+	- Comment créer un espace de travail commun.
+	- Comment revenir en arrière dans le projet si chatgpt a écris un truc totalement faux est que vous avez supprimer toute vos ancienne ligne de code...
+2. Qu’est-ce que Git ?
+	- Définition de Git (système de gestion de versions)
+	- Git est un outil local
+	- Créé par Linus Torvalds
+	- Fonctionne avec des snapshots du projet
+3. À quoi sert Git ?
+	- Suivre l’historique d’un projet
+	- Versionner le code
+	- Revenir en arrière si besoin
+	- Travailler à plusieurs sur un même projet
+4. Les concepts clés de Git
+	- Dépôt (repository)
+	- Commit
+	- Branche (branch)
+	- HEAD
+	- Working directory, staging area.
+5. Les commandes Git principales
+	- git init : initialiser un dépôt
+	- git status : voir l’état du projet
+	- git add : ajouter des fichiers au suivi
+	- git commit : enregistrer une version
+	- git log : voir l’historique
+	- git branch : gérer les banches
+	- git checkout / git switch
+	- git merge
+6. Le workflow de base avec Git
+	- Modifier le code
+	- git status
+	- git add
+	- git commit
+	- Répéter
+	- Workflow avec git.
+7. Comment travailler en groupe sur un projet.
+	- Avoir un repo commun avec les collegue.
+8. Quesque github et que fait t'il
+	- Platform en ligne.
+	- Permet l'hébergement de dépot git.
+	- Permet la gestion de droit sur le dépot.
+	- GitHub permet d'avoir un dépot commun et accesible. 
+9. Workflow habituelle d'un projet avec git + github.
+	- Création d'un repo sur github.
+	- Clonage de ce repo sur votre pc.
+	- Coder...
+	- Faire des commit des bout de code produit
+	- Faire un push des commit a la fin de la journée pour "mettre a jour" le projet.
