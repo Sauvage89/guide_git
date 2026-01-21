@@ -1,51 +1,13 @@
-1. Exposition de probleme tel que
-	- Comment avoir un suivi d'un projet.
-	- Comment versionner un projet.
-	- Comment éviter de perdre du code.
-	- Comment créer un espace de travail commun.
-	- Comment revenir en arrière dans le projet si chatgpt a écris un truc totalement faux est que vous avez supprimer toute vos ancienne ligne de code...
-2. Qu’est-ce que Git ?
-	- Définition de Git (système de gestion de versions)
-	- Git est un outil local
-	- Créé par Linus Torvalds
-	- Fonctionne avec des snapshots du projet
-3. À quoi sert Git ?
-	- Suivre l’historique d’un projet
-	- Versionner le code
-	- Revenir en arrière si besoin
-	- Travailler à plusieurs sur un même projet
-4. Les concepts clés de Git
-	- Dépôt (repository)
-	- Commit
-	- Branche (branch)
-	- HEAD
-	- Working directory, staging area.
-5. Les commandes Git principales
-	- git init : initialiser un dépôt
-	- git status : voir l’état du projet
-	- git add : ajouter des fichiers au suivi
-	- git commit : enregistrer une version
-	- git log : voir l’historique
-	- git branch : gérer les banches
-	- git checkout / git switch
-	- git merge
-6. Le workflow de base avec Git
-	- Modifier le code
-	- git status
-	- git add
-	- git commit
-	- Répéter
-	- Workflow avec git.
-7. Comment travailler en groupe sur un projet.
-	- Avoir un repo commun avec les collegue.
-8. Quesque github et que fait t'il
-	- Platform en ligne.
-	- Permet l'hébergement de dépot git.
-	- Permet la gestion de droit sur le dépot.
-	- GitHub permet d'avoir un dépot commun et accesible. 
-9. Workflow habituelle d'un projet avec git + github.
-	- Création d'un repo sur github.
-	- Clonage de ce repo sur votre pc.
-	- Coder...
-	- Faire des commit des bout de code produit
-	- Faire un push des commit a la fin de la journée pour "mettre a jour" le projet.
+1.	On vas travailler sur git
+2.	Présentation sommaire de a quoi sert git
+3.	Pause ou je présente le createur de git
+4.	Explication de comment faire un suivi de projet via git (les commit)
+5/6.	Explication de l'historique git et exemple d'un rollback
+7.	Exemple concret de suivi de projet, et on montre les mauvais commit puis les bons
+8.	Explication des bonne pratique des commmit
+9.	On recadre le diaporama en disant qu'on vient de presenter le comment faire un suivi de projet via git; Et
+on commence a ce demander comment ont peut travailler en groupe sur un projet.
+10.	Explication du repo et de github.
+11.	Animation sur le clonage et le push d'un repo par 2 personne est on explique le problème de ce workflow.
+12.	Explication des branch est sur l'utilité de parler dans le groupe avant de merge le travail finale.
+13.	Diapo conclusion sur les 2 notion qu'on vient d'expliquer
